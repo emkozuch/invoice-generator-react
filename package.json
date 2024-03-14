@@ -8,7 +8,9 @@
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "build:translationsEnum": "node devScripts/generateTranslationsEnum.js"
+    "build:translationsEnum": "node devScripts/generateTranslationsEnum.js",
+    "aaaa": "node devScripts/test.js",
+    "prepare": "husky install"
   },
   "dependencies": {
     "i18next": "^23.10.1",
@@ -27,6 +29,7 @@
     "eslint": "^8.57.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "husky": "^8.0.0",
     "typescript": "^5.2.2",
     "vite": "^5.1.6"
   }
