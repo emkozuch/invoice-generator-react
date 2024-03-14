@@ -1,0 +1,4 @@
+export enum TKeys {
+ CLIENT_COMPANY_DATA = "CLIENT_COMPANY_DATA",
+ TEST = "TEST"
+}
