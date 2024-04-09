@@ -1,4 +1,7 @@
 {
   "CLIENT_COMPANY_DATA": "Dane Firmy",
-  "TEST": "TEST"
+  "MENU_ELEMENT_HOME": "Strona główna",
+  "MENU_ELEMENT_INVOICES": "Twoje Faktury",
+  "MENU_ELEMENT_SETTINGS": "Ustawienia",
+  "MENU_ELEMENT_NEW_INVOICE": "Nowa faktura"
 }
